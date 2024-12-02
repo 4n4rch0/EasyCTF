@@ -1,0 +1,14 @@
+Target,Webdirectories
+tryhackme.com,/admin
+tryhackme.com,/login
+tryhackme.com,/register
+tryhackme.com,/forum
+tryhackme.com,/uploads
+tryhackme.com,/images
+tryhackme.com,/css
+tryhackme.com,/js
+tryhackme.com,/api
+tryhackme.com,/wp-admin
+tryhackme.com,/wp-login.php
+tryhackme.com,/robots.txt
+tryhackme.com,/sitemap.xml

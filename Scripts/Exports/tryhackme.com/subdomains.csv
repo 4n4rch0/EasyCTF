@@ -1,0 +1,4 @@
+Target,Subdomain
+tryhackme.com,www.tryhackme.com
+tryhackme.com,blog.tryhackme.com
+tryhackme.com,auth.tryhackme.com
