@@ -1,0 +1,25 @@
+Domain,Whois Info
+walnutedu.in,"{
+  ""domain_name"": ""walnutedu.in"",
+  ""registrar"": ""GoDaddy.com, LLC"",
+  ""registrar_url"": ""www.godaddy.com"",
+  ""registrar_iana"": ""146"",
+  ""updated_date"": ""2023-09-06 12:58:34"",
+  ""creation_date"": ""2013-11-20 19:28:26"",
+  ""expiration_date"": ""2028-11-20 19:28:26"",
+  ""name_servers"": [
+    ""ns05.domaincontrol.com"",
+    ""ns06.domaincontrol.com""
+  ],
+  ""organization"": null,
+  ""state"": ""Maharashtra"",
+  ""status"": [
+    ""clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited"",
+    ""clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"",
+    ""clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"",
+    ""clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited""
+  ],
+  ""emails"": null,
+  ""country"": ""IN"",
+  ""dnssec"": ""unsigned""
+}"
