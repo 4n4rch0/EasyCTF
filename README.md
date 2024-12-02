@@ -1,6 +1,6 @@
 # Tryhackme Toolset and Rooms Results
 
-- Automation tooling for solving ctfs or challenges
-    > csvmap.py
+## CSVMAP.py - Preview
 
-- Results summization and backup
+![Preview 1](img/README/csvmap_output_preview_1.png)
+![Preview 2](img/README/csvmap_output_preview_2.png.png)

@@ -1,5 +1,0 @@
-python-nmap
-python-whois
-tqdm
-pyfiglet
-requests
